@@ -1,6 +1,6 @@
 [project]
 name = "agent_content_strategy"
-version = "0.0.0"
+version = "1.0.0"
 description = "Agent repository: a specialist content-intelligence agent contributing to the content-strategy stage."
 requires-python = ">=3.10"
 license = { text = "Proprietary" }
